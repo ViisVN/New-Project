@@ -1,4 +1,4 @@
-/Client/bin
+Client/bin
 Client/obj
 Client/Properties
 Client/App.config
@@ -10,5 +10,6 @@ Severclient/bin
 Severclient/obj
 Severclient/Properties
 Severclient/App.config
+
 Severclient.sln
 Severclient.v12.suo
