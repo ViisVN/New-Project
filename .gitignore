@@ -1,0 +1,14 @@
+/Client/bin
+Client/obj
+Client/Properties
+Client/App.config
+Client 2/bin
+Client 2/obj
+Client 2/Properties
+Client 2/App.config
+Severclient/bin
+Severclient/obj
+Severclient/Properties
+Severclient/App.config
+Severclient.sln
+Severclient.v12.suo
